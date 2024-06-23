@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html lang="">
+<head>
+<meta charset="utf-8">
+<title>Reading and Writing with Mrs. Holben English 3 Course</title>
+<link href="../PamHolbenTeachingSiteStyleSheet.css" rel="stylesheet" type="text/css/>
+<script src="CourseList.js"></script>
+<style>
+img.inline-img {
+display:inline-block;
+vertical-align:top;
+width:100px;
+height:auto;
+}
+.outline{
+shape-outside: inset(150px 150 px);
+width:400px;
+height:200px;
+float:left;
+}
+</style>
+</head>
+<body>
+<main>
+<h1>English 3 </h1>
+<h2>Focus of Course:</h2>
+<div class = ContentCard>
+<div class="square">
+<div>
+<img> </img>
+</div> <!--end of square div-->
+	<p>English III concentrates on reading great literature through our biblical worldview lens. We will work on understanding Aristotle’s “Truth and Beauty” principals in composition and literature while learning that great literature reflects that we are all made of dust and the breath of God. We will see how the lives of characters are caught between sin and redemption.
+<i>This course meets the requirements for one English credit</i>.</p>
+<ul>
+<li>Target Grade Level:  9</li>
+<li>Meets Wednesdays from 8:00- 9:30 a.m. (EST)</li>
+<li>$300.00/$34.00 monthly payments due by first day of the month August-May </li>
+<li>History text (Please wait to purchase texts as some are pending)</li>
+<li><i>The Odysessy</i> by Homer</li>
+<li>Shakespeare</li>
+<li><i>A Tale of Two Cities</i> by Dickens</li>
+<li><i>Dr. Jekyell and Mr. Hyde</i> by Stevenson</li>
+<li>Various short stories and poems. (Provided by instructor)</li>
+<li>Video studies include: The Scarlet Pimpernel; Two more—to be posted soon</li>
+<li>Correlated primary sources and research materials.</li>
+</main>
+<footer>
+Copyright 2024 Mrs. Holben
+</footer>
+</body>
+
+
+</html>
