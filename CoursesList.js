@@ -76,7 +76,7 @@ var Courses =
         "Description":  "Students will approach the language arts as the study of God’s gift of language. They will begin the transfer from a reading emphasis to a more in depth study of literature. Composition and study skills will be an integral part of the course; grammar will be studied as a tool for composition and speaking skills",
         "TargetGradeLevels":  "7",
         "Meetings":  "Mondays and Wednesdays 8:00 - 9:30 a.m. (EST)",
-        "Duration":  "June 8-25",
+        "Duration":  "August-May",
         "CourseLink":  "English1.html"
     },
 
@@ -92,12 +92,23 @@ var Courses =
         "CourseLink":  "English2.html"
     },
 
+
+    {
+        "Name":  "English III",
+        "Type": "Fall/Spring",
+        "Description":  "This course is designed to provide some extra help with understanding our language. No homework is assigned with course. We work together developing strategies for a stronger application of grammar with our compositions. Fall Term only",
+        "TargetGradeLevels":  "9",
+        "Meetings":  "Meets Wednesdays from 8:00- 9:30 a.m. (EST)",
+        "Duration":  "August - May",
+        "CourseLink":  "English3.html"
+    },
+
     {
         "Name":  "Grammar Supplement I",
         "Type": "Fall/Spring",
         "Description":  "Students will continue to develop in their study of God’s gift of language. Students will work on speed and fluency with reading challenging texts. Composition and study skills will be an integral part of the course; grammar will be studied as a tool for composition and speaking skills",
         "TargetGradeLevels":  "7/8",
-        "Meetings":  "Thursdays",
+        "Meetings":  "Thursdays 11:30-1:00p.m. (EST)",
         "Duration":  "August - December",
         "CourseLink":  "linkHere.link"
     },
@@ -107,10 +118,10 @@ var Courses =
     {
         "Name":  "American History, Literature, and Composition",
         "Type": "Fall/Spring",
-        "Description":  "* Fall term only. The focus of AHLC is to provide a rhetoric-level study of the history of the United States, with an emphasis on the humanities. Research, oral communication, and composition are integral components of the course; scored discussion, oral discussion and argument are frequent activities. We begin with a review of a biblical worldview as it relates to history, first understanding that history is linear, with creation the beginning, heaven the end, and Christ the center. We then apply biblical principles to the founding and development of our country, as well as to contemporary issues. Of special emphasis is the Creation, Fall, Redemption paradigm as it relates to the philosophical decline of the US and to the errors of revisionist history.",
+        "Description":  " The focus of AHLC is to provide a rhetoric-level study of the history of the United States, with an emphasis on the humanities. Research, oral communication, and composition are integral components of the course; scored discussion, oral discussion and argument are frequent activities. We begin with a review of a biblical worldview as it relates to history, first understanding that history is linear, with creation the beginning, heaven the end, and Christ the center. We then apply biblical principles to the founding and development of our country, as well as to contemporary issues. Of special emphasis is the Creation, Fall, Redemption paradigm as it relates to the philosophical decline of the US and to the errors of revisionist history.",
         "TargetGradeLevels":  "11",
-        "Meetings":  "Mondays and Wednesdays 8:00 - 9:30 p.m. (EST)",
-        "Duration":  "June 8 - 25",
+        "Meetings":  "Tuesdays and Thursdays 8:00 - 9:30 p.m. (EST)",
+        "Duration":  "August-May",
         "CourseLink":  "AmericanSurveyAmericanHistoryLiteratureAndCompositionFrom1940ToPresent.html"
     },
 
@@ -118,10 +129,10 @@ var Courses =
         "Name":  "World History II Literature and Composition",
         "Type": "Fall/Spring",
         "Description":  "Our primary focus is to understand God’s purpose for history. His plan is revealed to us through written records.      Starting with the premises that history is the story of God’s plan for man and that history is linear, with Christ and the cross at the center, the students trace the development of empires, nations, countries, philosophies, movements,  and trends. World history is an overview from the age of exploration to modern times. This course integrates the humanities—art, literature, music and architecture. Writing skills are utilized as students spend time in historical research, analyzing primary sources, and communicating a biblical world view of historical events and interpretations.",
-        "TargetGradeLevels":  "Middle Grades",
+        "TargetGradeLevels":  "10",
         "Meetings":  "Mondays and Wednesdays 11:30-1:00 p.m. (EST)",
         "TargetGradeLevels":  "10",
-        "Duration":  "June 8 - 25",
+        "Duration":  "August-May",
         "CourseLink":  "WorldHistory2LiteratureAndComposition.html"
     }
 
