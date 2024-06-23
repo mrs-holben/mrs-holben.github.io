@@ -77,7 +77,8 @@ var Courses =
         "TargetGradeLevels":  "7",
         "Meetings":  "Mondays 8:00 - 9:30 a.m. (EST)",
         "Duration":  "August-May",
-        "CourseLink":  "English1.html"
+        "CourseLink":  "English1.html",
+        "TileImage": "Readerstatue.jpeg"
     },
 
 
@@ -89,7 +90,8 @@ var Courses =
         "TargetGradeLevels":  "8",
         "Meetings":  "Tuesdays 9:45 - 11:15 a.m.(EST)",
         "Duration":  "August - May",
-        "CourseLink":  "English2.html"
+        "CourseLink":  "English2.html",
+        "TileImage": "Keyimage.jpeg"
     },
 
 
@@ -100,7 +102,8 @@ var Courses =
         "TargetGradeLevels":  "9",
         "Meetings":  "Wednesdays from 8:00- 9:30 a.m. (EST)",
         "Duration":  "August - May",
-        "CourseLink":  "English3.html"
+        "CourseLink":  "English3.html",
+        "TileImage": "ImageLinkHere.jpg"
     },
 
     {
@@ -110,7 +113,8 @@ var Courses =
         "TargetGradeLevels":  "7/8",
         "Meetings":  "Thursdays 11:30-1:00p.m. (EST)",
         "Duration":  "August - December",
-        "CourseLink":  "linkHere.link"
+        "CourseLink":  "linkHere.link",
+        "TileImage": "ImageLinkHere.jpg"
     },
 
 
@@ -122,7 +126,8 @@ var Courses =
         "TargetGradeLevels":  "11",
         "Meetings":  "Tuesdays and Thursdays 8:00 - 9:30 p.m. (EST)",
         "Duration":  "August-May",
-        "CourseLink":  "AmericanSurveyAmericanHistoryLiteratureAndCompositionFrom1940ToPresent.html"
+        "CourseLink":  "AmericanSurveyAmericanHistoryLiteratureAndCompositionFrom1940ToPresent.html",
+        "TileImage": "ImageLinkHere.jpg"
     },
 
     {
@@ -133,7 +138,8 @@ var Courses =
         "Meetings":  "Mondays and Wednesdays 11:30-1:00 p.m. (EST)",
         "TargetGradeLevels":  "10",
         "Duration":  "August-May",
-        "CourseLink":  "WorldHistory2LiteratureAndComposition.html"
+        "CourseLink":  "WorldHistory2LiteratureAndComposition.html",
+        "TileImage": "ImageLinkHere.jpg"
     }
 
       
