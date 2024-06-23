@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <title>Reading and Writing With Mrs. Holben Courses</title>
+
+    <link href="PamHolbenTeachingSiteStyleSheet.css" rel="stylesheet" type="text/css"/>
+
+
+    <script src="CoursesList.js"></script>
+
+
+
+
+      </head>
+      <body>
+      
+
+    <header>
+
+
+ <!--Here is where we define the nav bar -->
+ <nav>
+      <ul> <li><a href="index.html">Home    </a></li>
+        <li><a href="AboutMe.html">About Me    </a></li>
+        <li><a class="active" href="Courses.html">Courses    </a></li>
+        <li><a href="ContactPage.html">Consulting / Tutoring    </a></li>
+      </ul>
+</nav>
+    
+      <br>
+    </header>
+
+
+    <main>
+
+
+ <!-- Format for defining cardss:
+  
+<a href="HTMLPageLink"><div class=cards>
+ 
+</br></br>
+<h2>cards Title </h2>
+
+<p>
+
+</br>
+
+Descritpion Here
+
+</br></br>
+
+
+</br> 
+
+</div>
+  
+</div>
+</a>
+
+-->
+
+
+<h1>Calendar</h1>
+
+
+<div class = CalendarCard>
+  <h2>Fall and Spring Term 2024-25</h2>
+  <ul>
+    <li>Classes begin August 26</li>
+    <li>Thanksgiving/Fall Break: Nov. 24-30</li>
+    <li>Christmas Break: Dec. 22-Jan. 5</li>
+    <li>Winter Break: Feb. 16-22</li>
+    <li>Spring Break: April 13-20</li>
+    <li>End of School Year: May 9</li>
+  </ul>
+</div>
+
+
+
+        <h1>Courses</h1>
+
+
+
+
+
+
+<!--
+<h2>Summer Intensives </h2>
+
+-->
+
+<div id = SummerIntensiveCards>
+
+
+
+
+</div>
+
+
+
+
+<h2>Fall 2024 / Spring 2025:</h2>
+
+
+
+
+<div id = FallSpringCards>
+
+
+</div>
+
+
+
+
+<script>
+
+
+  // Function to populate HTML with data from the object
+function populateHTML(type) {
+// Find the element where you want to display the data
+var SummerIntensiveCards = document.getElementById("SummerIntensiveCards");
+
+// Create HTML content using data from the object
+var CardContent = "";
+
+// Loop through each property of the dataObject
+for (var i in Courses) 
+{
+    if (Courses.hasOwnProperty(i) && Courses[i].Type == type) 
+    {
+
+          // Append HTML content for each property
+          CardContent += 
+          
+          "<a href = 'CoursePages/" + Courses[i].CourseLink + "'>"
+            +
+            "<div class=card>"
+              +
+              "<h3>" + Courses[i].Name + ": </h3>"
+              +
+              "<br>"
+              +
+              "<img src='" + Courses[i].TileImage + "'</img>"
+              +
+              "<h4> Grade Level:" + Courses[i].TargetGradeLevels + "</h4>"
+              /*
+              +
+              "<p>"+ Courses[i].Description + "</p>"
+*/
+              +
+              "<h4>" + Courses[i].Duration + ": " + Courses[i].Meetings + "</h4>"
+              +
+              "<h4> Price:" + Courses[i].Price + "</h4>"
+            +
+            "</div>"
+          +
+          "</a>"
+          +
+          "<br>"
+          ;
+
+    }  // end if  
+}//end for
+
+  if(type =="SummerIntensive")
+  {
+    SummerIntensiveCards.innerHTML = CardContent;
+  }
+
+  if(type =="Fall/Spring")
+  {
+    FallSpringCards.innerHTML = CardContent;
+  }
+
+
+}// end function
+
+
+
+
+
+// Call the function to populate HTML when the document is loaded
+document.addEventListener("DOMContentLoaded", function() {
+  var type = "SummerIntensive";
+  
+
+populateHTML(type);
+
+var type = "Fall/Spring";
+  
+
+  populateHTML(type);
+
+// Set the HTML content to the output element
+
+
+
+
+});
+
+</script>
+
+
+        
+<a href="HTMLPageLink">
+  
+  <div class=SummerIntensiveCards>
+ </div>
+ 
+
+ <div class=FallSpringCards>
+</div>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        
+    </main>
+    <footer>
+
+      Copyright 2024 Mrs. Holben
+
+    </footer>
+  </body>
+</html>

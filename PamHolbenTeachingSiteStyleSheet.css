@@ -1,0 +1,208 @@
+
+
+
+html
+{
+
+  background-color:rgb(64, 22, 0);
+  background-image: url("HomePageBackground.jpg");
+  background-repeat: no-repeat;
+  background-size: 80%;
+}
+
+
+body 
+{
+  background-color:rgb(250, 235, 215, 0.7); /*Same color as "antique white, but translucent*/
+
+  width:80%;
+  background-repeat: no-repeat;
+background-size: cover;
+background-attachment: scroll;
+}
+
+h1 
+{
+
+  font-size: 90px;
+  text-align: center;
+  font-family:verdana;
+
+}
+
+h2 
+{
+
+  font-size: 50px;
+  text-align: center;
+  font-family:verdana;
+
+}
+
+h3 
+{
+
+  font-size: 30px;
+  text-align: center;
+  font-family:verdana;
+
+}
+
+
+h4
+{
+  font-size: 30px;
+
+
+}
+img {
+  float: left;
+  margin: 5px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 5px;
+}
+
+/*
+
+.square 
+{
+  height: 20px;
+  width: 20px;
+  background-color: #555;
+}*/
+
+p 
+{
+
+  font-size: 30px;
+  text-align: justify;
+
+  font-family:verdana;
+
+}
+
+
+nav ul {
+
+  font-size: 50px;
+  text-align: center;
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #333;
+  font-family:verdana;
+  text-align:center;
+
+}
+
+nav li {
+  float: left;
+  padding-right:4%;
+  padding-left:4%;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 1px;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  background-color: #111;
+}
+
+
+.row
+{
+  height: 33.3333333333333333%;
+  
+}
+
+
+.row:after 
+{
+  content: "";
+  display: table;
+  clear: both;
+
+}
+
+.card, .card:visited 
+{
+  /*box-shadow: 0 0 10px 0 rgb(99, 7, 204);*/
+  box-shadow: 0 0 10px 0 rgb(0, 0, 0);
+  background-color: rgba(255, 255, 255, 0.8);
+  transition: 0.3s;
+  padding: 10px;
+  height:366px;
+  text-align: center;
+ /* overflow:auto;*/
+  color:rgb(0, 0, 0);
+  width: 60%;
+  margin: auto;
+
+  
+}
+
+
+
+.card:hover
+{
+  box-shadow: 0 0 30px 0 rgb(18, 94, 202);
+  color: coral;
+
+  
+}
+
+
+
+
+.CalendarCard, .CalendarCard:visited 
+{
+  /*box-shadow: 0 0 10px 0 rgb(99, 7, 204);*/
+  box-shadow: 0 0 10px 0 rgb(0, 0, 0);
+  background-color: rgba(255, 255, 255, 0.8);
+  transition: 0.3s;
+ /* overflow:auto;*/
+  color:rgb(0, 0, 0);
+  width: 30%;
+  margin: auto;
+  padding-left:5%;
+  padding:1%;
+  
+  
+}
+
+.ContentCard, .CalendarCard:visited 
+{
+  /*box-shadow: 0 0 10px 0 rgb(99, 7, 204);*/
+  box-shadow: 0 0 10px 0 rgb(0, 0, 0);
+  background-color: rgba(255, 255, 255, 0.8);
+  transition: 0.3s;
+ /* overflow:auto;*/
+  color:rgb(0, 0, 0);
+  width: 60%;
+  margin: auto;
+  padding:5%;
+  
+}
+
+
+/**
+Ok, now I've got to get a grid layout 
+
+**/
+
+
+
+
+
+
+
+
+
+
+
+
