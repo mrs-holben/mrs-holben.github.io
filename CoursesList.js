@@ -8,7 +8,6 @@ var Courses =
         "TargetGradeLevels":  "6/7",
         "Meetings":  "Mondays and Wednesdays from 8:00 a.m.-10:00a.m. (EST)",
         "Duration":  "June 10-28",
-        "Price":  "$120.00",
         "CourseLink":  "linkHere.link",
         "TileImage": "ImageLinkHere.jpg"
     },
@@ -19,9 +18,7 @@ var Courses =
         "Description":  "Six Two-hour sessions provide students with the tools for developing three-paragraph expository essays.",
         "TargetGradeLevels":  "7/8",
         "Meetings":  "Mondays and Wednesdays from 10:15 a.m. - 12:15 p.m. (EST)",
-        "Duration":  "June 10-28",
-        "Price":  "$120.00",
-        "CourseLink":  "linkHere.link",
+        "Price":  "$120.00",        "CourseLink":  "linkHere.link",
         "TileImage": "ImageLinkHere.jpg"
     },
 
@@ -33,7 +30,6 @@ var Courses =
         "TargetGradeLevels":  "7/8/9",
         "Meetings":  "Tuesdays and Thursdays from 8:00 a.m.-10:00 a.m.(EST)",
         "Duration":  "June 10-28",
-        "Price":  "$120.00",
         "CourseLink":  "linkHere.link",
         "TileImage": "ImageLinkHere.jpg"
     },
@@ -46,7 +42,6 @@ var Courses =
         "TargetGradeLevels":  "9/10",
         "Meetings":  "Tuesdays and Thursdays from 10:15 a.m.- 12:15 p.m. (EST)",
         "Duration":  "June 10-28",
-        "Price":  "$120.00",
         "CourseLink":  "linkHere.link",
         "TileImage": "ImageLinkHere.jpg"
     },
@@ -58,7 +53,6 @@ var Courses =
         "TargetGradeLevels":  "Middle Grades",
         "Meetings":  "Mondays and Wednesdays from 8:00 a.m.-9:30 a.m. (EST).",
         "Duration":  "July 8-25",
-        "Price":  "$100.00",
         "CourseLink":  "linkHere.link",
         "TileImage": "ImageLinkHere.jpg"
     },
@@ -71,7 +65,6 @@ var Courses =
         "TargetGradeLevels":  "High School",
         "Meetings":  "Mondays and Wednesdays 9:45 - 11:15 a.m. (EST)",
         "Duration":  "July 8-25",
-        "Price":  "$100.00",
         "CourseLink":  "linkHere.link"
     },
 
@@ -84,7 +77,6 @@ var Courses =
         "TargetGradeLevels":  "7",
         "Meetings":  "Mondays and Wednesdays 8:00 - 9:30 a.m. (EST)",
         "Duration":  "June 8-25",
-        "Price":  "$300.00",
         "CourseLink":  "English1.html"
     },
 
@@ -97,7 +89,6 @@ var Courses =
         "TargetGradeLevels":  "8",
         "Meetings":  "Tuesdays and Thursdays 9:45 - 11:15 a.m.(EST)",
         "Duration":  "August - May",
-        "Price":  "$300.00",
         "CourseLink":  "English2.html"
     },
 
@@ -108,7 +99,6 @@ var Courses =
         "TargetGradeLevels":  "7/8",
         "Meetings":  "Thursdays",
         "Duration":  "August - December",
-        "Price":  "$150.00",
         "CourseLink":  "linkHere.link"
     },
 
@@ -121,7 +111,6 @@ var Courses =
         "TargetGradeLevels":  "11",
         "Meetings":  "Mondays and Wednesdays 8:00 - 9:30 p.m. (EST)",
         "Duration":  "June 8 - 25",
-        "Price":  "$550.00",
         "CourseLink":  "AmericanSurveyAmericanHistoryLiteratureAndCompositionFrom1940ToPresent.html"
     },
 
@@ -133,7 +122,6 @@ var Courses =
         "Meetings":  "Mondays and Wednesdays 11:30-1:00 p.m. (EST)",
         "TargetGradeLevels":  "10",
         "Duration":  "June 8 - 25",
-        "Price":  "$550.00",
         "CourseLink":  "WorldHistory2LiteratureAndComposition.html"
     }
 
