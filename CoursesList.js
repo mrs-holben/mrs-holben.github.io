@@ -98,7 +98,7 @@ var Courses =
         "Type": "Fall/Spring",
         "Description":  "This course is designed to provide some extra help with understanding our language. No homework is assigned with course. We work together developing strategies for a stronger application of grammar with our compositions. Fall Term only",
         "TargetGradeLevels":  "9",
-        "Meetings":  "Meets Wednesdays from 8:00- 9:30 a.m. (EST)",
+        "Meetings":  "Wednesdays from 8:00- 9:30 a.m. (EST)",
         "Duration":  "August - May",
         "CourseLink":  "English3.html"
     },
